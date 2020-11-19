@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\bin\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\bin\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\bin\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\bin\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\bin\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\bin\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\obj\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\obj\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\obj\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\obj\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\obj\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\obj\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 41 - 19.11.20 - Arrays\obj\Debug\netcoreapp3.1\Aula 41 - 19.11.20 - Arrays.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula 41 - 19.11.20 - Arrays/1.0.0": {
+        "runtime": {
+          "Aula 41 - 19.11.20 - Arrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 41 - 19.11.20 - Arrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

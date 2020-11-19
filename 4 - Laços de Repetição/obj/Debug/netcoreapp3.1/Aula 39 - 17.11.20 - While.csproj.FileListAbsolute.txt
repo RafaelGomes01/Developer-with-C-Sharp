@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\obj\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\obj\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\obj\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\obj\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\bin\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\bin\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\bin\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\bin\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\bin\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\bin\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\obj\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\obj\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 39 - 17.11.20 - While\obj\Debug\netcoreapp3.1\Aula 39 - 17.11.20 - While.genruntimeconfig.cache

@@ -1,0 +1,26 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.genruntimeconfig.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\bin\Debug\netcoreapp3.1\Projeto - Semafaro.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Console 2.0\Projeto - Semafaro\obj\Debug\netcoreapp3.1\Projeto - Semafaro.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Aula 39 - 17.11.20 - While/1.0.0": {
+        "runtime": {
+          "Aula 39 - 17.11.20 - While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula 39 - 17.11.20 - While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

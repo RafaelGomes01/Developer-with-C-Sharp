@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\bin\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Aula 36 - 11.11 - C# - Projeto Console\Projeto\Projeto1\obj\Debug\netcoreapp3.1\Projeto1.genruntimeconfig.cache
