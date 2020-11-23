@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\bin\Debug\netcoreapp3.1\6 - Funções.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\bin\Debug\netcoreapp3.1\6 - Funções.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\bin\Debug\netcoreapp3.1\6 - Funções.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\bin\Debug\netcoreapp3.1\6 - Funções.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\bin\Debug\netcoreapp3.1\6 - Funções.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\bin\Debug\netcoreapp3.1\6 - Funções.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\obj\Debug\netcoreapp3.1\6 - Funções.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\obj\Debug\netcoreapp3.1\6 - Funções.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\obj\Debug\netcoreapp3.1\6 - Funções.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\obj\Debug\netcoreapp3.1\6 - Funções.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\obj\Debug\netcoreapp3.1\6 - Funções.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\obj\Debug\netcoreapp3.1\6 - Funções.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em c#\6 - Funções\obj\Debug\netcoreapp3.1\6 - Funções.genruntimeconfig.cache

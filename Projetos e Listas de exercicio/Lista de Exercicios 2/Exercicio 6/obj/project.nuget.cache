@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+iZJU5UXz8aMyjPH70K15sR2A6uQFOi/JTwPTOoUTCX6U+NW91zGU+Q4Xw6F8eFOq/HijzFOyxDVkKQn9+s9Yw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\\Programação em c#\\Projetos e Listas de exercicio\\Lista de Exercicios 2\\Exercicio 6\\Exercicio 6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
