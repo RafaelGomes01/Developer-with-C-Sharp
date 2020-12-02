@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Atributos e Metodos POO\bin\Debug\netcoreapp3.1\Atributos e Metodos POO.exe
+C:\Users\rafam\Desktop\Atributos e Metodos POO\bin\Debug\netcoreapp3.1\Atributos e Metodos POO.deps.json
+C:\Users\rafam\Desktop\Atributos e Metodos POO\bin\Debug\netcoreapp3.1\Atributos e Metodos POO.runtimeconfig.json
+C:\Users\rafam\Desktop\Atributos e Metodos POO\bin\Debug\netcoreapp3.1\Atributos e Metodos POO.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Atributos e Metodos POO\bin\Debug\netcoreapp3.1\Atributos e Metodos POO.dll
+C:\Users\rafam\Desktop\Atributos e Metodos POO\bin\Debug\netcoreapp3.1\Atributos e Metodos POO.pdb
+C:\Users\rafam\Desktop\Atributos e Metodos POO\obj\Debug\netcoreapp3.1\Atributos e Metodos POO.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Atributos e Metodos POO\obj\Debug\netcoreapp3.1\Atributos e Metodos POO.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Atributos e Metodos POO\obj\Debug\netcoreapp3.1\Atributos e Metodos POO.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Atributos e Metodos POO\obj\Debug\netcoreapp3.1\Atributos e Metodos POO.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Atributos e Metodos POO\obj\Debug\netcoreapp3.1\Atributos e Metodos POO.dll
+C:\Users\rafam\Desktop\Atributos e Metodos POO\obj\Debug\netcoreapp3.1\Atributos e Metodos POO.pdb
+C:\Users\rafam\Desktop\Atributos e Metodos POO\obj\Debug\netcoreapp3.1\Atributos e Metodos POO.genruntimeconfig.cache
