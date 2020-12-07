@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\bin\Debug\netcoreapp3.1\Codigo.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\bin\Debug\netcoreapp3.1\Codigo.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\bin\Debug\netcoreapp3.1\Codigo.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\bin\Debug\netcoreapp3.1\Codigo.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\bin\Debug\netcoreapp3.1\Codigo.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\bin\Debug\netcoreapp3.1\Codigo.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\obj\Debug\netcoreapp3.1\Codigo.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\obj\Debug\netcoreapp3.1\Codigo.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\obj\Debug\netcoreapp3.1\Codigo.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\obj\Debug\netcoreapp3.1\Codigo.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\obj\Debug\netcoreapp3.1\Codigo.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\obj\Debug\netcoreapp3.1\Codigo.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 43 - Pilares da POO - Herança\Codigo\obj\Debug\netcoreapp3.1\Codigo.genruntimeconfig.cache
