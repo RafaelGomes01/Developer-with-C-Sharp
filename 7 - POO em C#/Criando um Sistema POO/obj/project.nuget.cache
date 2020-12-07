@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FkX0kAUWm7QJrUiNZKGtZGnUeH2+QyFmAcqMnDAYbRRli4OFUwA/5s69UbqX6MweGlzt75B1756k6pnzhhG5Eg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafam\\Desktop\\Criando um sistema orientado à objetos\\Criando um sistema orientado à objetos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

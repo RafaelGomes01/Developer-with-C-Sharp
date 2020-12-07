@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\bin\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.exe
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\bin\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.deps.json
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\bin\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.runtimeconfig.json
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\bin\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\bin\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.dll
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\bin\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.pdb
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\obj\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\obj\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\obj\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\obj\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\obj\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.dll
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\obj\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.pdb
+C:\Users\rafam\Desktop\Criando um sistema orientado à objetos\obj\Debug\netcoreapp3.1\Criando um sistema orientado à objetos.genruntimeconfig.cache
