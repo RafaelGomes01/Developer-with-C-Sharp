@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEnxEuy8oY8G83QXVBSA7RcdJMtx4kX/bVXUoCy+AFk0GnE7U41Bg/s1EWFhWo2b/mvtzg7Gx/RrpkaWGpNVZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 61 - 10.12.20 - Pilares da POO - Polimorfismo I - Sobreposição de Metodos\\Code\\Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
