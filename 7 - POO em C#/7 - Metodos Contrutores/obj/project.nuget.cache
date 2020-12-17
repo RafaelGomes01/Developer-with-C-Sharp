@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXboQ1+03U2/R3t3lnUOvcxZt++QnfdQLvtrrsfjj5v6w5nlfVSvtHWvihysZMuSFc1dzZ1KaxVLJxRuKOvlyg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 64 - 15.12.20 - Metodos Construtores\\Code\\Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
