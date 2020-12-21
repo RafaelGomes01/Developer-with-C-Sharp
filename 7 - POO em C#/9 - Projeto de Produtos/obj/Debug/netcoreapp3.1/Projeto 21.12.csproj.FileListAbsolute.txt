@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Projeto 21.12\Code\obj\Debug\netcoreapp3.1\Projeto 21.12.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Projeto 21.12\Code\obj\Debug\netcoreapp3.1\Projeto 21.12.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Projeto 21.12\Code\obj\Debug\netcoreapp3.1\Projeto 21.12.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Projeto 21.12\Code\obj\Debug\netcoreapp3.1\Projeto 21.12.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Projeto 21.12\Code\bin\Debug\netcoreapp3.1\Projeto 21.12.exe
+C:\Users\rafam\Desktop\Projeto 21.12\Code\bin\Debug\netcoreapp3.1\Projeto 21.12.deps.json
+C:\Users\rafam\Desktop\Projeto 21.12\Code\bin\Debug\netcoreapp3.1\Projeto 21.12.runtimeconfig.json
+C:\Users\rafam\Desktop\Projeto 21.12\Code\bin\Debug\netcoreapp3.1\Projeto 21.12.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Projeto 21.12\Code\bin\Debug\netcoreapp3.1\Projeto 21.12.dll
+C:\Users\rafam\Desktop\Projeto 21.12\Code\bin\Debug\netcoreapp3.1\Projeto 21.12.pdb
+C:\Users\rafam\Desktop\Projeto 21.12\Code\obj\Debug\netcoreapp3.1\Projeto 21.12.dll
+C:\Users\rafam\Desktop\Projeto 21.12\Code\obj\Debug\netcoreapp3.1\Projeto 21.12.pdb
+C:\Users\rafam\Desktop\Projeto 21.12\Code\obj\Debug\netcoreapp3.1\Projeto 21.12.genruntimeconfig.cache
