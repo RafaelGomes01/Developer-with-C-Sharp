@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uVsQExW+uVc0a8Z0SqfyUUS2p7SYoyvIuGNUUIe2sO8CkT3KDs3Drda9iHPHw/yaV3k86Nd74knYpAWd6vvmEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\\Programação em C#\\7 - POO em C#\\11 - Interfaces\\Code\\Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\bin\Debug\netcoreapp3.1\Code.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\bin\Debug\netcoreapp3.1\Code.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\bin\Debug\netcoreapp3.1\Code.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\bin\Debug\netcoreapp3.1\Code.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\obj\Debug\netcoreapp3.1\Code.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\obj\Debug\netcoreapp3.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\obj\Debug\netcoreapp3.1\Code.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\obj\Debug\netcoreapp3.1\Code.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 03 - Back-End (Logica e Algoritimos) - 02.11 a 13.11\Programação em C#\7 - POO em C#\11 - Interfaces\Code\obj\Debug\netcoreapp3.1\Code.genruntimeconfig.cache
