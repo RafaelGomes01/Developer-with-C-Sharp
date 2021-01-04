@@ -1,0 +1,13 @@
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\bin\Debug\netcoreapp3.1\Code.exe
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\bin\Debug\netcoreapp3.1\Code.deps.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\bin\Debug\netcoreapp3.1\Code.runtimeconfig.dev.json
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\bin\Debug\netcoreapp3.1\Code.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\bin\Debug\netcoreapp3.1\Code.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\obj\Debug\netcoreapp3.1\Code.csprojAssemblyReference.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfoInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\obj\Debug\netcoreapp3.1\Code.AssemblyInfo.cs
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\obj\Debug\netcoreapp3.1\Code.csproj.CoreCompileInputs.cache
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\obj\Debug\netcoreapp3.1\Code.dll
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\obj\Debug\netcoreapp3.1\Code.pdb
+C:\Users\rafam\Desktop\Senai 1DT\Sprint 04 - Back-End (POO) - 17.11 a 28.01\Aula 66 - 17.12.20 - Objetos como argumentos\Code\obj\Debug\netcoreapp3.1\Code.genruntimeconfig.cache
