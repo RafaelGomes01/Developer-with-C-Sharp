@@ -41,5 +41,16 @@ namespace Code.Models
             }
             return produtos;
         }
+
+        public void Inserir(Produto produto)
+        {
+            string[] linhas = {PrepararLinhasCSV(produto)};
+            File.AppendAllLines(PATH, linhas);
+        }
+
+        public string PrepararLinhasCSV(Produto prod)
+        {
+            return $"{prod.Codigo};{prod.Nome};{prod.Preco}";
+        }
     }
 }

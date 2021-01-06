@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 72 - 05.01.21 - Aplicando MVC em um projeto de console\\Code\\Code.csproj",
+      "projectUniqueName": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 73 - 06.01.21 - Aplicando MVC - Correção\\Code\\Code.csproj",
       "projectName": "Code",
-      "projectPath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 72 - 05.01.21 - Aplicando MVC em um projeto de console\\Code\\Code.csproj",
+      "projectPath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 73 - 06.01.21 - Aplicando MVC - Correção\\Code\\Code.csproj",
       "packagesPath": "C:\\Users\\rafam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 72 - 05.01.21 - Aplicando MVC em um projeto de console\\Code\\obj\\",
+      "outputPath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 73 - 06.01.21 - Aplicando MVC - Correção\\Code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafam\\AppData\\Roaming\\NuGet\\NuGet.Config"

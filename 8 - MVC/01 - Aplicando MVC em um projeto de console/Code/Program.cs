@@ -8,8 +8,10 @@ namespace Code
     {
         static void Main(string[] args)
         {
-            ProdutoController produto = new ProdutoController();
-            produto.ListarProduto();
+            Console.Clear();
+            ProdutoController prod = new ProdutoController();
+            prod.Cadastrar();
+            prod.ListarProduto();
         }
     }
 }
