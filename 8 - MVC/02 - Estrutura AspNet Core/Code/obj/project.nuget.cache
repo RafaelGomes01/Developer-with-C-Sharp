@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r3FaswHN5RPgCUyP5ytDThd3fczuWrN4TV49lRr60dkb2R7u2lNooSc2MWsy1KcM+4SZvgCIc2MWyWlf0WqCSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafam\\Desktop\\Senai 1DT\\Sprint 04 - Back-End (POO) - 17.11 a 28.01\\Aula 78 - 08.01.21 - Estrutura AspNet Core - Razor\\Code\\Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\rafam\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
